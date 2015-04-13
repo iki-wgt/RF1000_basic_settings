@@ -17,4 +17,7 @@ Renkforce RF1000 HowTo and Basic Settings
 5. Installation Slic3r Software
 6. Konfiguration Slic3r Software, dazu Programm  Repetier Host öffnen, den Reiter "Slicer" wählen und auf den Button "Manager" klicken. Hier dann nach dem Screenshot einstellen:  
 <p>Fenster "Slicer Manager":</p>
-<p><img  src="img/1.png" width="300"></p>
+<p><img  src="img/RepetierHost-Slic3r-config.png" width="300"></p>
+7. Fenster "Slicer Manager" schliessen und auf Button "Configuration" klicken. Dann öffnet sich das Fenster "Slic3r", dort auf File->Load Config gehen und dort 
+
+##
