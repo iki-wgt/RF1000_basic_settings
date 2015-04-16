@@ -25,7 +25,7 @@ Renkforce RF1000 HowTo and Basic Settings
 <p><img  src="img/RepetierHost-Slic3r-config.png" width="300"></p>
 7. Fenster "Slicer Manager" schliessen, dann im "Slicer:" dropdown Menü "slic3er" auswählen und auf Button "Configuration" klicken. Dann öffnet sich das Fenster "Slic3r" und der "Configuration Assistant", den Assistenten schliessen, dann im "Slic3r" Fenster auf File->Load Config gehen und dort 
 [RF1000_PLA_200.ini](https://github.com/iki-wgt/RF1000_basic_settings/releases/download/0.2/RF1000_PLA_200.ini) laden.
-8. Geladene Config speichern, dazu muss jeder Reiter 2,3,4 (Print Settings, Filament Settings, Printer Settings) angewählt werden und dort mit dem Diskettensymbol gespeichert werden (Falls das Diskettensymbol nicht sichtbar ist, wird an dessen stelle ein kleines blaues Quadrat angezeigt.
+8. Geladene Config speichern, dazu müssen die Reiter 2,3,4 (Print Settings, Filament Settings, Printer Settings) angewählt werden und dort mit dem Diskettensymbol gespeichert werden (Falls das Diskettensymbol nicht sichtbar ist, wird an dessen stelle ein kleines blaues Quadrat angezeigt.
 
 ### Slicing
 Vor Betätigung des Buttons "Slice with slic3r" ist darauf zu achten, dass für Print-, Printer Setttings und Extruder das zuvor gespeicherte config File ausgewählt ist.
