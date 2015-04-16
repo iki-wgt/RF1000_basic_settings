@@ -19,12 +19,12 @@ Renkforce RF1000 HowTo and Basic Settings
 <p> Reiter "Printer Shape":</p>
 <p><img  src="img/RepetierHost-Settings_3.png" width="300"></p>
 4. [Download](http://slic3r.org/download/) Slicer Software: "Slic3r"
-5. Installation Slic3r Software. Anleitungen dazu finden sich auf der Dwonload Seite von Schritt 4.
-6. Konfiguration Slic3r Software, dazu Programm  Repetier Host öffnen, den Reiter "Slicer" wählen und auf den Button "Manager" klicken. Hier dann nach dem Screenshot einstellen:
+5. Installation Slic3r Software, dazu das Archiv (zip, tar.gz) entpacken.
+6. Konfiguration Slic3r Software, dazu Programm  Repetier Host öffnen, den Reiter "Slicer" wählen und auf den Button "Manager" klicken. Das Fenster "Slicer Manager" öffnet sich, dort auf den Button "Slicer hinzufügen" klickenund dann laut folgendem Screenshot einstellen:
 <p>Fenster "Slicer Manager":</p>
 <p><img  src="img/RepetierHost-Slic3r-config.png" width="300"></p>
-7. Fenster "Slicer Manager" schliessen und auf Button "Configuration" klicken. Dann öffnet sich das Fenster "Slic3r", dort auf File->Load Config gehen und dort 
+7. Fenster "Slicer Manager" schliessen, dann im "Slicer:" dropdown Menü "slic3er" auswählen und auf Button "Configuration" klicken. Dann öffnet sich das Fenster "Slic3r" und der "Configuration Assistant", den Assistenten schliessen, dann im "Slic3r" Fenster auf File->Load Config gehen und dort 
 [RF1000_PLA_200.ini](https://github.com/iki-wgt/RF1000_basic_settings/releases/download/0.1/RF1000_PLA_200.ini) laden.
-8. Geladene Config speichern, dazu muss jeder Reiter 2,3,4 (Print Settings, Filament Settings, Printer Settings) angewählt werden und dort mit dem Diskettensymbol gespeichert werden.
+8. Geladene Config speichern, dazu muss jeder Reiter 2,3,4 (Print Settings, Filament Settings, Printer Settings) angewählt werden und dort mit dem Diskettensymbol gespeichert werden (Falls das Diskettensymbol nicht sichtbar ist, wird an dessen stelle ein kleines blaues Quadrat angezeigt.
 
 ##
