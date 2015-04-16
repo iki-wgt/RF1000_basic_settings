@@ -5,7 +5,7 @@ Renkforce RF1000 HowTo and Basic Settings
 
 ### Vorbereitungen
 1. [Download](http://www.repetier.com/download/) Repetier Host Software.
-2. Installation Repetier Host Software, für Windows gibt es einen Installer, für Linux folgende Befehle ausführen:  
+2. Installation Repetier Host Software, für Windows gibt es einen Installer, für Linux Datei nach "/home/<user name>/bin/" downloaden und folgende Befehle ausführen:  
 ```
     tar -xzf repetierHostLinux_1_03.tgz
     cd RepetierHost
@@ -19,7 +19,7 @@ Renkforce RF1000 HowTo and Basic Settings
 <p> Reiter "Printer Shape":</p>
 <p><img  src="img/RepetierHost-Settings_3.png" width="300"></p>
 4. [Download](http://slic3r.org/download/) Slicer Software: "Slic3r"
-5. Installation Slic3r Software, dazu das Archiv (zip, tar.gz) entpacken.
+5. Installation Slic3r Software, dazu das Archiv (zip, tar.gz) entpacken. Bei Linux am besten nach "/home/<user name>/bin/"
 6. Konfiguration Slic3r Software, dazu Programm  Repetier Host öffnen, den Reiter "Slicer" wählen und auf den Button "Manager" klicken. Das Fenster "Slicer Manager" öffnet sich, dort auf den Button "Slicer hinzufügen" klickenund dann laut folgendem Screenshot einstellen:
 <p>Fenster "Slicer Manager":</p>
 <p><img  src="img/RepetierHost-Slic3r-config.png" width="300"></p>
